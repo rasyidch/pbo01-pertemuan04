@@ -1,6 +1,7 @@
-package loop_while;
+package loop_for;
 
-public class loop_for {
+public class For {
+
 
         public static void main(String[] args){
             int isiGelas = 0;
@@ -17,4 +18,5 @@ public class loop_for {
 
 
     }
+
 }
